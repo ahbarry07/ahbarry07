@@ -8,7 +8,7 @@ With a background in bioinformatics, I bring a unique perspective to solving com
 </p>
 
 
-### 🧠 My Journey in Action
+### My Skill-Driven Approach
 
 - Build smart, scalable, and maintainable solutions  
 - Design intelligent systems from backend to frontend  
