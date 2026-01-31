@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmadou BARRY</h1>
-<h3 align="center">Data Scientist • Machine Learning Enthusiast • Full-Stack Developer </h3>
+<h3 align="center">Data Scientist/Analyst • Machine Learning Enthusiast • Full-Stack Developer </h3>
 
 <p align="center">
 I started my journey as a Full-Stack Developer, crafting web applications from the ground up.<br>
