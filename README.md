@@ -15,7 +15,7 @@ With a background in bioinformatics, I bring a unique perspective to solving com
 - Explore data deeply to find patterns, build models, and generate insights  
 - Continuously learn, improve, and stay curious
 
-- 📫 How to reach me **barryahmadou135@gmail.com**
+- 📫 How to reach me **ahmadou1.barry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
