@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmadou BARRY</h1>
 
 <h3 align="center">
-Data Scientist / Analyst • Machine Learning Enthusiast • Full-Stack Developer
+Bioinformatician • Data Scientist / Analyst • Machine Learning Enthusiast • Full-Stack Developer
 </h3>
 
 <p align="center">
